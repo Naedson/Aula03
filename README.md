@@ -1,2 +1,1 @@
-# Aula03
-Exercício Hello World! em JavaScript.
+# Introdução a Programação em JavaScript
